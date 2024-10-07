@@ -1,6 +1,6 @@
 ## Overview 📜
 
-This exercise focuses on implementing **MapReduce** using **multi-threaded programming** in C. You will implement a simplified version of the MapReduce model to process large datasets efficiently using multiple threads.
+This exercise focuses on implementing **MapReduce** using **multi-threaded programming** in C. I implemented a simplified version of the MapReduce model to process large datasets efficiently using multiple threads.
 
 ## Key Topics Covered
 - MapReduce Architecture 🗺️
